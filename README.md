@@ -189,4 +189,4 @@ The prompt tells the model to use only information present in the CV and the pos
 
 ## Author
 
-_Your name_ · _GitHub / LinkedIn link_
+_Kashan ALyas_ · _www.linkedin.com/in/kashan-alyas-2b6528316_
